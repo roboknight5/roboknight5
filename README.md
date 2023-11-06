@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi my name is Mohamed Gougou, I am a Computer Engineer interested in creating and building new things, I love learning new technologies and tools in terms of both Software and Hardware and applying them to build solutions that would benefit and help people.
 <!--
 **roboknight5/roboknight5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
